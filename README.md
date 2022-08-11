@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @alel2tontoh
+- 👋 Hi, I’m alel2tontoh
 - 👀 I’m interested in devops
 - 🌱 I’m currently learning the devops culture
 - 💞️ I’m looking to collaborate on building pipelines
 - 📫 How to reach me? allyd@email.com
+HELLO CLASS 2022
 
 <!---
 alel2tontoh/alel2tontoh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
