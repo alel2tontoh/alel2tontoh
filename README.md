@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning the devops culture
 - 💞️ I’m looking to collaborate on building pipelines
 - 📫 How to reach me? allyd@email.com
+- I LOVE DEVOPS
 HELLO CLASS 2022
 
 <!---
