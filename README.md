@@ -7,6 +7,8 @@
 HELLO CLASS 2022
 this process is a mystery
 
+i love working as a DE
+
 <!---
 alel2tontoh/alel2tontoh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
